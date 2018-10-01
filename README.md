@@ -22,6 +22,9 @@
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 
+## Atom
+* Atom Flight Manual: https://flight-manual.atom.io/getting-started/sections/atom-basics/
+
 ## Flow (!TypeScript)
 * Why Type Systems? https://www.youtube.com/watch?v=V1po0BT7kac
 * Flow vs TypeScript: https://medium.com/the-web-tub/comparing-flow-with-typescript-6a8ff7fd4cbb
