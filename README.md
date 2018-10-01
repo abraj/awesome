@@ -20,6 +20,7 @@
 
 ## Git
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
+* Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 
 ## Flow (!TypeScript)
 * Why Type Systems? https://www.youtube.com/watch?v=V1po0BT7kac
