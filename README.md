@@ -32,7 +32,17 @@
 * Lodash/Underscore using Vanilla JS: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 
 ## Styling React
-* https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+* Basic components: [Material-UI](https://material-ui.com/)
+* Basic layout/structuring: [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+* High-level components/sections: [Material Kit Pro](https://www.creative-tim.com/product/material-kit-pro-react)
+* [Why not just use Bootstrap?](https://www.quora.com/Why-do-we-need-React-Bootstrap-when-we-can-use-Bootstrap-in-the-React-app-What-are-the-benefits-of-React-Bootstrap-Id-prefer-to-use-the-original-because-I-want-to-use-Bootstrap-4)
+* Ways to style react components: https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+* React Bootstrap Components: https://github.com/Hermanya/awesome-react-bootstrap-components
+
+## Material-UI
+* https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c
+* https://www.youtube.com/watch?v=xm4LX5fJKZ8&feature=youtu.be&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk
+* https://www.youtube.com/watch?v=PWadEeOuv5o
 
 ## CSS-in-JS
 * https://www.youtube.com/watch?v=X_uTCnaRe94
