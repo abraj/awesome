@@ -20,6 +20,7 @@
 
 ## Git
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
+* Merging vs. Rebasing: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 * Contribute to open-source: __fork__, __clone__, __branch__, __commit__, __push__, __pull request__.
 
