@@ -25,6 +25,7 @@
 
 ## Jest
 * Jest docs: https://jestjs.io/docs/en/getting-started
+* Unit-testing guide: https://github.com/mawrkus/js-unit-testing-guide
 * Testing React Apps: https://jestjs.io/docs/en/tutorial-react
 * Error (EMFILE) too many open files: https://github.com/facebook/create-react-app/issues/4540#issuecomment-393268543
 
