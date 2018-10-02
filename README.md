@@ -21,6 +21,7 @@
 ## Git
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
+* Contribute to open-source: __fork__, __clone__, __branch__, __commit__, __push__, __pull request__.
 
 ## Jest
 * Jest docs: https://jestjs.io/docs/en/getting-started
@@ -64,3 +65,6 @@
 ## Talks
 * React Conf 2017: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
 * Code Splitting Your React App: https://www.youtube.com/watch?v=bb6RCrDaxhw
+
+## Punchlines
+* _This is a living document._
