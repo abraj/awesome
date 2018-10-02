@@ -22,6 +22,11 @@
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 
+## Jest
+* Jest docs: https://jestjs.io/docs/en/getting-started
+* Testing React Apps: https://jestjs.io/docs/en/tutorial-react
+* Error (EMFILE) too many open files: https://github.com/facebook/create-react-app/issues/4540#issuecomment-393268543
+
 ## Atom
 * Atom Flight Manual: https://flight-manual.atom.io/getting-started/sections/atom-basics/
 
