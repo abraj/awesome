@@ -23,6 +23,12 @@
 * Merging vs. Rebasing: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 * Contribute to open-source: __fork__, __clone__, __branch__, __commit__, __push__, __pull request__.
+* https://guides.github.com/introduction/flow/
+* https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
+* https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/
+* https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+* https://stackoverflow.com/a/9147389/7416001
+* https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request
 
 ## Jest
 * Jest docs: https://jestjs.io/docs/en/getting-started
