@@ -70,6 +70,9 @@
 * Redux middlewares: redux-thunk
 * Charts/Graphs: react-sparklines
 
+# Firebase
+Serverless app with Firebase: https://www.youtube.com/watch?v=prlK_QL_qOA
+
 ## Talks
 * React Conf 2017: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
 * Code Splitting Your React App: https://www.youtube.com/watch?v=bb6RCrDaxhw
