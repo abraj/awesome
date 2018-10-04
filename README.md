@@ -21,15 +21,19 @@
 ## Git
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
 * Merging vs. Rebasing: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+* Remote-tracking branches: http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 * Contribute to open-source: __fork__, __clone__, __branch__, __commit__, __push__, __pull request__.
-* Working with upstream (original repo): https://stackoverflow.com/a/9257901/7416001
-* https://guides.github.com/introduction/flow/
 * https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
 * https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/
 * https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
 * https://stackoverflow.com/a/9147389/7416001
 * https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request
+
+## GitHub
+* GitHub flow: https://guides.github.com/introduction/flow/
+* Working with upstream (original repo): https://stackoverflow.com/a/9257901/7416001
+* Merge methods on GitHub: https://help.github.com/articles/about-merge-methods-on-github/
 
 ## Jest
 * Jest docs: https://jestjs.io/docs/en/getting-started
