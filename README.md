@@ -8,6 +8,7 @@
 * Component communication: https://www.javascriptstuff.com/component-communication/
 * Multiple instances of same react component: https://stackoverflow.com/questions/27112274/multiple-instances-of-same-react-component?rq=1#
 * Events (Bubbling and Capturing): https://stackoverflow.com/a/34523743 , https://reactjs.org/docs/events.html
+* Form submission using Enter key: https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/ 
 
 ## Redux
 * Video course by Dan Abramov: https://egghead.io/courses/getting-started-with-redux
