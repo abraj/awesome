@@ -8,7 +8,8 @@
 * Component communication: https://www.javascriptstuff.com/component-communication/
 * Multiple instances of same react component: https://stackoverflow.com/questions/27112274/multiple-instances-of-same-react-component?rq=1#
 * Events (Bubbling and Capturing): https://stackoverflow.com/a/34523743 , https://reactjs.org/docs/events.html
-* Form submission using Enter key: https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/ 
+* Form submission using Enter key: https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/
+* HTML to JSX Compiler: https://magic.reactjs.net/htmltojsx.htm
 
 ## Redux
 * Video course by Dan Abramov: https://egghead.io/courses/getting-started-with-redux
@@ -26,6 +27,7 @@
 * Remote-tracking branches: http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
 * Working with Teams: https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
 * Contribute to open-source: __fork__, __clone__, __branch__, __commit__, __push__, __pull request__.
+* Difference between HEAD^ and HEAD~ in Git: https://stackoverflow.com/a/2222920/7416001
 * https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
 * https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/
 * https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
