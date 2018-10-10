@@ -1,15 +1,30 @@
 # Resources
 
 ## Javascript
-* ...
+* Turning off eslint rule for a specific line: https://stackoverflow.com/a/29592334/1378920
 
 ## React
+* React Conf 2017: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
 * Tips by Dan Abramov: https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375
 * Component communication: https://www.javascriptstuff.com/component-communication/
 * Multiple instances of same react component: https://stackoverflow.com/questions/27112274/multiple-instances-of-same-react-component?rq=1#
 * Events (Bubbling and Capturing): https://stackoverflow.com/a/34523743 , https://reactjs.org/docs/events.html
 * Form submission using Enter key: https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/
 * HTML to JSX Compiler: https://magic.reactjs.net/htmltojsx.htm
+
+## CRA: create-react-app
+* User Guide: https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
+* Static Stack: https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319
+* Static pre-renderering: https://github.com/geelen/react-snapshot
+* React Helmet: https://github.com/nfl/react-helmet
+
+# Backend
+* API Backend: create-react-app Working with API: https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
+* CORS on ExpressJS: https://enable-cors.org/server_expressjs.html
+
+# Firebase
+* Serverless app with Firebase: https://www.youtube.com/watch?v=prlK_QL_qOA
+* Firebase Hosting: https://www.youtube.com/watch?v=meofoNuK3vo
 
 ## Redux
 * Video course by Dan Abramov: https://egghead.io/courses/getting-started-with-redux
@@ -20,6 +35,28 @@
 ## React-router
 * Using React-router with Redux: https://github.com/ReactTraining/react-router/issues/4671#issuecomment-285320076
 * Nested routing: https://stackoverflow.com/questions/49473727/how-to-handle-multiple-routers-in-react
+
+## Testing
+* Jest: https://jestjs.io/docs/en/expect.html
+* Travis: https://docs.travis-ci.com/user/getting-started/
+* https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#travis-ci
+* Jest docs: https://jestjs.io/docs/en/getting-started
+* Unit-testing guide: https://github.com/mawrkus/js-unit-testing-guide
+* Testing React Apps: https://jestjs.io/docs/en/tutorial-react
+* Error (EMFILE) too many open files: https://github.com/facebook/create-react-app/issues/4540#issuecomment-393268543
+
+## Flutter
+* Flutter by Google: https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
+* https://www.brainmobi.com/blog/scope-of-flutter-sdk-in-the-future-of-mobile-application-development/
+* https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf
+* https://hackernoon.com/why-native-app-developers-should-take-a-serious-look-at-flutter-e97361a1c073
+* https://proandroiddev.com/why-flutter-will-change-mobile-development-for-the-best-c249f71fa63c
+* https://hackernoon.com/what-are-we-doing-with-googles-flutter-74ff29dd256a
+* https://appinventiv.com/blog/revealed-real-google-strategy-behind-flutter
+
+## React Native vs Flutter
+* https://www.youtube.com/watch?v=bnYJRYFsrSw
+* https://www.youtube.com/watch?v=tSyXb0sHBoE
 
 ## Git
 * Simplest guide to Git: http://rogerdudler.github.io/git-guide/
@@ -39,12 +76,6 @@
 * Working with upstream (original repo): https://stackoverflow.com/a/9257901/7416001
 * Merge methods on GitHub: https://help.github.com/articles/about-merge-methods-on-github/
 
-## Jest
-* Jest docs: https://jestjs.io/docs/en/getting-started
-* Unit-testing guide: https://github.com/mawrkus/js-unit-testing-guide
-* Testing React Apps: https://jestjs.io/docs/en/tutorial-react
-* Error (EMFILE) too many open files: https://github.com/facebook/create-react-app/issues/4540#issuecomment-393268543
-
 ## Atom
 * Atom Flight Manual: https://flight-manual.atom.io/getting-started/sections/atom-basics/
 
@@ -61,6 +92,7 @@
 ## Styling React
 * Basic components: [Material-UI](https://material-ui.com/)
 * Basic layout/structuring: [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+* React Bootstrap 4 components: reactstrap (https://reactstrap.github.io/)
 * High-level components/sections: [Material Kit Pro](https://www.creative-tim.com/product/material-kit-pro-react)
 * [Why not just use Bootstrap?](https://www.quora.com/Why-do-we-need-React-Bootstrap-when-we-can-use-Bootstrap-in-the-React-app-What-are-the-benefits-of-React-Bootstrap-Id-prefer-to-use-the-original-because-I-want-to-use-Bootstrap-4)
 * Ways to style react components: https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
@@ -74,17 +106,16 @@
 ## CSS-in-JS
 * https://www.youtube.com/watch?v=X_uTCnaRe94
 
+## Progressive Web Apps
+* https://whatwebcando.today/
+
 ## NPM libraries
 * JS Utils: lodash
 * Redux middlewares: redux-thunk
 * Charts/Graphs: react-sparklines
 
-# Firebase
-Serverless app with Firebase: https://www.youtube.com/watch?v=prlK_QL_qOA
-
-## Talks
-* React Conf 2017: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
-* Code Splitting Your React App: https://www.youtube.com/watch?v=bb6RCrDaxhw
+## Other libraries
+* Automatic page load progress bar: pace.js (https://github.com/HubSpot/pace)
 
 ## Punchlines
 * _This is a living document._
