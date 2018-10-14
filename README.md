@@ -3,6 +3,22 @@
 ## Javascript
 * Turning off eslint rule for a specific line: https://stackoverflow.com/a/29592334/1378920
 
+## HTML
+* https://github.com/abraj/html-play
+
+## CSS
+* https://github.com/abraj/css-play
+* CSS flexbox layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+* CSS grid layout: https://getbootstrap.com/docs/4.1/layout/grid/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+* https://css-tricks.com/snippets/css/complete-guide-grid/
+
+## Bootstrap
+* https://github.com/abraj/bootstrap-play
+* Responsive Website with Bootstrap 4, HTML5 & CSS3: https://www.youtube.com/watch?v=9cKsq14Kfsw
+* Build Responsive Bootstrap Website: https://www.sitepoint.com/build-responsive-bootstrap-website/
+
 ## React
 * React Conf 2017: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
 * Tips by Dan Abramov: https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375
@@ -119,3 +135,6 @@
 
 ## Punchlines
 * _This is a living document._
+* _Full-stack cloud infrastructure for modern teams._
+* _The modern way to build your website_ (https://www.contentful.com/)
+* https://thenewstack.io/dont-call-contentfuls-content-infrastructure-cms/
