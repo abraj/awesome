@@ -34,11 +34,11 @@
 * Static pre-renderering: https://github.com/geelen/react-snapshot
 * React Helmet: https://github.com/nfl/react-helmet
 
-# Backend
+## Backend
 * API Backend: create-react-app Working with API: https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
 * CORS on ExpressJS: https://enable-cors.org/server_expressjs.html
 
-# Firebase
+## Firebase
 * Serverless app with Firebase: https://www.youtube.com/watch?v=prlK_QL_qOA
 * Firebase Hosting: https://www.youtube.com/watch?v=meofoNuK3vo
 
@@ -63,6 +63,8 @@
 
 ## Flutter
 * Flutter by Google: https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
+* https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi
+* https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82
 * https://www.brainmobi.com/blog/scope-of-flutter-sdk-in-the-future-of-mobile-application-development/
 * https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf
 * https://hackernoon.com/why-native-app-developers-should-take-a-serious-look-at-flutter-e97361a1c073
@@ -124,6 +126,10 @@
 
 ## Progressive Web Apps
 * https://whatwebcando.today/
+
+## Drupal
+* https://www.mediacurrent.com/blog/15-cool-things-you-can-do-drupal/
+* https://www.drupal.org/node/1588984
 
 ## NPM libraries
 * JS Utils: lodash
