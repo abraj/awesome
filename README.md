@@ -5,6 +5,7 @@
 
 ## HTML
 * https://github.com/abraj/html-play
+* async vs defer attributes of `<script>` element: https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
 
 ## CSS
 * https://github.com/abraj/css-play
@@ -118,7 +119,8 @@
 
 ## Material-UI
 * https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c
-* https://www.youtube.com/watch?v=xm4LX5fJKZ8&feature=youtu.be&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk
+* React / Material-UI: https://www.youtube.com/watch?v=xm4LX5fJKZ8&feature=youtu.be&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk
+* Server-Side Rendering with Material-UI: https://www.youtube.com/watch?v=gpGoxdVspx4&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk&index=17
 * https://www.youtube.com/watch?v=PWadEeOuv5o
 
 ## CSS-in-JS
