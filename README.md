@@ -1,11 +1,13 @@
 # Resources
 
 ## Javascript
+* JavaScript Handbbook: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 * Turning off eslint rule for a specific line: https://stackoverflow.com/a/29592334/1378920
 
 ## HTML
 * https://github.com/abraj/html-play
 * async vs defer attributes of `<script>` element: https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
+* https://stackoverflow.com/questions/69913/why-dont-self-closing-script-tags-work
 
 ## CSS
 * https://github.com/abraj/css-play
@@ -14,6 +16,10 @@
 * CSS grid layout: https://getbootstrap.com/docs/4.1/layout/grid/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 * https://css-tricks.com/snippets/css/complete-guide-grid/
+* Vertically-centered text: https://stackoverflow.com/a/22218694/1378920
+* Responsive design with media queries: https://www.youtube.com/watch?v=fA1NW-T1QXc
+* `clear: both` and Clearfix: https://stackoverflow.com/a/12871734/1378920, http://doctype.com/whats-difference-between-clear-both-clearfix
+* Float and Clearfix: https://stackoverflow.com/a/8554054/1378920, https://css-tricks.com/all-about-floats/
 
 ## Bootstrap
 * https://github.com/abraj/bootstrap-play
@@ -28,6 +34,13 @@
 * Events (Bubbling and Capturing): https://stackoverflow.com/a/34523743 , https://reactjs.org/docs/events.html
 * Form submission using Enter key: https://dzello.com/blog/2017/02/19/demystifying-enter-key-submission-for-react-forms/
 * HTML to JSX Compiler: https://magic.reactjs.net/htmltojsx.htm
+* Dynamic routing (React-router): https://www.youtube.com/watch?v=sfvrjwVihFY, https://tylermcginnis.com/react-router-nested-routes/
+* React Component Patterns: https://www.youtube.com/watch?v=YaZg8wg39QQ
+* `event.currentTarget` vs `event.target`: https://github.com/facebook/react/issues/5733, http://joequery.me/code/event-target-vs-event-currenttarget-30-seconds/
+* Multiple classNames for One Element: http://techspotnewsx.blogspot.com/2016/07/using-multiple-classnames-for-one.html
+
+## React Native
+* https://aboutreact.com/
 
 ## CRA: create-react-app
 * User Guide: https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md
@@ -94,6 +107,7 @@
 * GitHub flow: https://guides.github.com/introduction/flow/
 * Working with upstream (original repo): https://stackoverflow.com/a/9257901/7416001
 * Merge methods on GitHub: https://help.github.com/articles/about-merge-methods-on-github/
+* Enable SPA for GitHub Pages: https://github.com/rafrex/spa-github-pages
 
 ## Atom
 * Atom Flight Manual: https://flight-manual.atom.io/getting-started/sections/atom-basics/
@@ -123,8 +137,17 @@
 * Server-Side Rendering with Material-UI: https://www.youtube.com/watch?v=gpGoxdVspx4&list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk&index=17
 * https://www.youtube.com/watch?v=PWadEeOuv5o
 
+## Ant Design
+* https://ant.design/docs/react/introduce
+* https://ant.design/docs/react/recommendation
+
 ## CSS-in-JS
 * https://www.youtube.com/watch?v=X_uTCnaRe94
+* https://www.youtube.com/watch?v=2j9rSur_mnk
+* https://www.youtube.com/watch?v=zR1lOuyQEt8
+* https://www.youtube.com/watch?v=qu4U7lwZTRI
+* https://www.youtube.com/watch?v=X_uTCnaRe94, https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
+* https://egghead.io/courses/convert-scss-sass-to-css-in-js
 
 ## Progressive Web Apps
 * https://whatwebcando.today/
