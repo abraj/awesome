@@ -1,5 +1,8 @@
 # Resources
 
+## Software Engineering
+* https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166
+
 ## Javascript
 * JavaScript Handbbook: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 * Turning off eslint rule for a specific line: https://stackoverflow.com/a/29592334/1378920
@@ -47,6 +50,7 @@
 * Static Stack: https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319
 * Static pre-renderering: https://github.com/geelen/react-snapshot
 * React Helmet: https://github.com/nfl/react-helmet
+* Using APIs with CRA: https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
 
 ## Backend
 * API Backend: create-react-app Working with API: https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
@@ -155,6 +159,11 @@
 ## Drupal
 * https://www.mediacurrent.com/blog/15-cool-things-you-can-do-drupal/
 * https://www.drupal.org/node/1588984
+
+## Machine Learning
+* http://www.holehouse.org/mlclass/
+* http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+* https://www.quora.com/I-want-to-learn-machine-learning-with-Python-tell-me-where-to-start-I-dont-have-a-CS-degree-or-prior-coding-experience
 
 ## NPM libraries
 * JS Utils: lodash
