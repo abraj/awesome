@@ -59,6 +59,7 @@
 ## Firebase
 * Serverless app with Firebase: https://www.youtube.com/watch?v=prlK_QL_qOA
 * Firebase Hosting: https://www.youtube.com/watch?v=meofoNuK3vo
+* Learnings from Firebase: https://medium.com/sketchdeck-developer-blog/what-weve-learned-from-four-years-of-using-firebase-d1f81b3395b5
 
 ## Redux
 * Video course by Dan Abramov: https://egghead.io/courses/getting-started-with-redux
